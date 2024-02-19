@@ -1,0 +1,44 @@
+name: craft_scene
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 < 4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  # flutter_cupertino_localizations:
+  flutter_localizations:
+    sdk: flutter
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/delete/
+    - assets/images/
+    - assets/images/flags/
+    # - assets/ml/
+    - assets/lang/ar.json
+    - assets/lang/en.json
+    - assets/translation_files/
+
+  fonts:
+    - family: Gilory
+      fonts:
+        - asset: assets/fonts/Gilory-bold.ttf
+        - asset: assets/fonts/Gilory-medium.ttf
+        - asset: assets/fonts/Gilory-regular.ttf
+        - asset: assets/fonts/Gilory-semibold.ttf
+    - family: Arial
+      fonts:
+        - asset: assets/fonts/Arial.TTF
+        - asset: assets/fonts/ArialMdm.ttf

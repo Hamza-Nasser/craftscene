@@ -1,0 +1,10 @@
+<svg id="Component_162_10" data-name="Component 162 – 10" xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+  <g id="Ellipse_127" data-name="Ellipse 127" fill="#f6f6f6" stroke="#0a3b4b" stroke-width="0.5">
+    <circle cx="31.5" cy="31.5" r="31.5" stroke="none"/>
+    <circle cx="31.5" cy="31.5" r="31.25" fill="none"/>
+  </g>
+  <g id="add_Picture" data-name="add Picture" transform="translate(20 20)">
+    <path id="Path_13949" data-name="Path 13949" d="M0,0H24V24H0Z" fill="none"/>
+    <path id="add_photo_alternate_FILL0_wght400_GRAD0_opsz24" d="M5,21a2,2,0,0,1-2-2V5A2,2,0,0,1,5,3h8a.981.981,0,0,1,1,1,.982.982,0,0,1-1,1H5V19H19V11a1,1,0,1,1,2,0v8a2,2,0,0,1-2,2ZM18,9a.984.984,0,0,1-1-1V7H16a1.008,1.008,0,0,1-.712-1.713A.967.967,0,0,1,16,5h1V4a1,1,0,1,1,2,0V5h1a1.008,1.008,0,0,1,.712,1.713A.967.967,0,0,1,20,7H19V8a.984.984,0,0,1-1,1ZM7,17H17a.484.484,0,0,0,.45-.275.44.44,0,0,0-.05-.525l-2.75-3.675a.5.5,0,0,0-.8,0L11.25,16,9.4,13.525a.5.5,0,0,0-.8,0L6.6,16.2a.44.44,0,0,0-.05.525A.484.484,0,0,0,7,17ZM5,11v8H5V5H5v6Z" fill="#0a3b4b"/>
+  </g>
+</svg>
